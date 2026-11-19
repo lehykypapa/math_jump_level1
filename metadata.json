@@ -1,0 +1,8 @@
+{
+  "name": "숫자 오비 점프 - 초등 1학년 덧셈 뺄셈 모험",
+  "description": "정답 발판을 찾아 점프하며 완주하는 초등 1학년 덧셈·뺄셈 3D 오비 점프 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
